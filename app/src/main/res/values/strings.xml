@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="_submit">SUBMIT</string>
+    <string name="_default_text">Apple</string>
+    <string name="_quiz_image">Quiz Image</string>
+    <string name="_result">Result</string>
+    <string name="_image">image</string>
+    <string name="_congratulations">Hey, Congratulations!</string>
+    <string name="_finish">FINISH</string>
+    <string name="_quiz_app">Quiz App!</string>
+    <string name="_welcome">Welcome</string>
+    <string name="_example_name">e.g. John</string>
+    <string name="_start">Start</string>
+    <string name="_please_enter_your_name">Please enter your name.</string>
+</resources>
